@@ -12,7 +12,7 @@ Emotion detection typically categorizes emotions into basic or complex categorie
   * Total 1313 images for training and 144 images for validation present in 26classes.
   * Create a bounding boxes with the help of label-img And makesense.ai website according to YoloV5.
   * Prepare folder structure that can be accept by YoloV5.
-  [train folders](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/69b19a8e-2f81-4d9b-a762-ffa73ac59be1)
+ ![train folders](https://github.com/Tanwar-12/Face-Mask-Detection/assets/110081008/69b19a8e-2f81-4d9b-a762-ffa73ac59be1)
 ## Steps to use Yolov5:
 * Cloning the YoloV5 file from official repository.
 * Changing the directory of yolov5
